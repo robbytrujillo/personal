@@ -3,19 +3,20 @@
         @vite('resources/css/app.css')
     </head>
     <body >
-        <div class="w-full h-screen grid grid-cols-4 bg-gray-500">
-            <div class="bg-white flex flex-col justify-center items-center">
+        <div class="grid w-full h-screen grid-cols-4 bg-gray-500">
+            <div class="flex flex-col items-center justify-center bg-white">
                 <img class="w-[200px] h-[290px] bg-gray-500 rounded-full" src="{{ asset('images/profile.jpg') }}"/>
                 
-                <div class="w-full uppercase flex flex-row justify-center mt-5 text-lg gap-x-2 tracking-wider">
+                <div class="flex flex-row justify-center w-full mt-5 text-lg tracking-wider uppercase gap-x-2">
                     <div class="font-bold">Robby</div>
                     <div class="font-light">Ilhamkusuma</div>
                 </div>
 
-                <a href="{{ asset('files/CV.pdf') }}" class="p-2 mt-2 uppercase font-light text-xs text-black hover:text-white bg-white border-2 hover:bg-blue-400 border-blue-400 duration-200 " target="_blank" download>Download CV</a>
+                <a href="{{ asset('files/CV.pdf') }}" class="p-2 mt-2 text-xs font-light text-black uppercase duration-200 bg-white border-2 border-blue-400 hover:text-white hover:bg-blue-400 " target="_blank" download>Download CV</a>
             </div>
             
-            <div class="bg-blue-500">Child component 2</div>
+            <div class="flex bg-white ">Child component 2</div>
+
             <div class="bg-green-500">Child component 3</div>
             <div class="bg-yellow-500">Child component 4</div>
         </div>

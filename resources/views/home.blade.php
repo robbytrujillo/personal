@@ -15,7 +15,12 @@
                 <a href="{{ asset('files/CV.pdf') }}" class="p-2 mt-2 text-xs font-light text-black uppercase duration-200 bg-white border-2 border-blue-400 hover:text-white hover:bg-blue-400 " target="_blank" download>Download CV</a>
             </div>
             
-            <div class="flex bg-white ">Child component 2</div>
+            <div class="flex flex-col px-5 pt-10 bg-white ">
+                <div class="flex flex-row px-2 py-1 text-sm tracking-wider uppercase border-2 border-black w-fit">
+                    <div>About</div>
+                    <div>Me</div>
+                </div>
+            </div>
 
             <div class="bg-green-500">Child component 3</div>
             <div class="bg-yellow-500">Child component 4</div>

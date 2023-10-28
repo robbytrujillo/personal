@@ -16,9 +16,13 @@
             </div>
             
             <div class="flex flex-col px-5 pt-10 bg-white ">
-                <div class="flex flex-row px-2 py-1 text-sm tracking-wider uppercase border-2 border-black w-fit">
-                    <div>About</div>
-                    <div>Me</div>
+                <div class="flex flex-row px-2 py-1 text-sm tracking-wider uppercase border-2 border-black gap-x-1 w-fit">
+                    <div class="font-bold">About</div>
+                    <div class="font-light">Me</div>
+                </div>
+
+                <div class="mt-3 text-xl font-light tracking-wider text-black">
+                    I'm Robby Ilhamkusuma - 35 years old professional Fullstack Developer in Jakarta
                 </div>
             </div>
 

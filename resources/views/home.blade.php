@@ -80,7 +80,7 @@
                     <div class="font-light">Abilities</div>
                 </div>
                 
-                <div class="flex justify-end w-full mt-4 text-xs font-light">
+                <div class="flex justify-end w-full mt-3 text-xs font-light">
                     85%
                 </div>
                 <div class="w-full h-[2px] bg-gray-300 mt-1">
@@ -88,7 +88,7 @@
                 </div>
                 <div class="text-xs font-light uppercase">UI Design</div>
 
-                <div class="flex justify-end w-full mt-4 text-xs font-light">
+                <div class="flex justify-end w-full mt-3 text-xs font-light">
                     90%
                 </div>
                 <div class="w-full h-[2px] bg-gray-300 mt-1">
@@ -96,7 +96,7 @@
                 </div>
                 <div class="text-xs font-light uppercase">Mobile Programming</div>
                 
-                <div class="flex justify-end w-full mt-4 text-xs font-light">
+                <div class="flex justify-end w-full mt-3 text-xs font-light">
                     85%
                 </div>
                 <div class="w-full h-[2px] bg-gray-300 mt-1">
@@ -104,30 +104,63 @@
                 </div>
                 <div class="text-xs font-light uppercase">Web Programming</div>
 
-                <div class="flex flex-row px-2 py-1 mt-10 text-sm tracking-wider uppercase border-2 border-black gap-x-1 w-fit">
+                <div class="flex flex-row px-2 py-1 mt-5 text-sm tracking-wider uppercase border-2 border-black gap-x-1 w-fit">
                     <div class="font-bold">Education</div>
                     <div class="font-light">&</div>
                     <div class="font-light">Jobs</div>
                 </div>
 
                 <div class="mt-4 text-xs font-light">
+                    Jun 2020 - Present
+                </div>
+                <div class="text-base font-bold tracking-[.15em]">
+                    FREELANCE <span class="font-light">WEB DEVELOPER</span>
+                </div>
+                <div class="text-xs italic font-light">Laksana Web Solution</div>
+                
+                <div class="mt-4 text-xs font-light">
                     November 2017 - Present
                 </div>
                 <div class="text-base font-bold tracking-[.15em]">
-                    SOFTWARE <span class="font-light">ENGINEER</span>
+                    IT, TEACHER, & <span class="font-light"> PROGRAMMER</span>
                 </div>
                 <div class="text-xs italic font-light">Ibnu Hajar Boarding School Jakarta</div>
 
                 <div class="mt-4 text-xs font-light">
-                    April 2022 - Present
+                    Des 2014 - Des 2016
                 </div>
                 <div class="text-base font-bold tracking-[.15em]">
-                    SOFTWARE <span class="font-light">ENGINEER</span>
+                    AO &<span class="font-light"> CREDIT ANALYST</span>
                 </div>
-                <div class="text-xs italic font-light">Ibnu Hajar Boarding School Jakarta</div>
-                
+                <div class="text-xs italic font-light">PT Bank Sinarmas</div>
+
+                <div class="mt-4 text-xs font-light">
+                    Des 2012 - Des 2014
+                </div>
+                <div class="text-base font-bold tracking-[.15em]">
+                    ACCOUNT <span class="font-light">OFFICER</span>
+                </div>
+                <div class="text-xs italic font-light">PT Bank Victoria Syariah</div>
+
+                <div class="mt-4 text-xs font-light">
+                    Juli 2012 - Des 2012
+                </div>
+                <div class="text-base font-bold tracking-[.15em]">
+                    MERCHAN<span class="font-light">DISER</span>
+                </div>
+                <div class="text-xs italic font-light">Danone Nutricia Research</div>
+
+                <div class="mt-4 text-xs font-light">
+                    Jan 2012 - Jun 2012
+                </div>
+                <div class="text-base font-bold tracking-[.15em]">
+                    
+                RELATIONSHIP <span class="font-light">OFFICER</span>
+                </div>
+                <div class="text-xs italic font-light">PT Bank BTPN</div>
             </div>
-            <div class="bg-yellow-500">Child component 4</div>
+            
+            {{-- <div class="bg-yellow-500">Child component 4</div> --}}
         </div>
     </body>
 </html>

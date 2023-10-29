@@ -83,7 +83,49 @@
                 <div class="flex justify-end w-full mt-4 text-xs font-light">
                     85%
                 </div>
-                <div class="w-full h-[20px] bg-gray-300 mt-1"></div>
+                <div class="w-full h-[2px] bg-gray-300 mt-1">
+                    <div class="w-10/12 h-[2px] bg-gray-900 "></div>
+                </div>
+                <div class="text-xs font-light uppercase">UI Design</div>
+
+                <div class="flex justify-end w-full mt-4 text-xs font-light">
+                    90%
+                </div>
+                <div class="w-full h-[2px] bg-gray-300 mt-1">
+                    <div class="w-11/12 h-[2px] bg-gray-900 "></div>
+                </div>
+                <div class="text-xs font-light uppercase">Mobile Programming</div>
+                
+                <div class="flex justify-end w-full mt-4 text-xs font-light">
+                    85%
+                </div>
+                <div class="w-full h-[2px] bg-gray-300 mt-1">
+                    <div class="w-10/12 h-[2px] bg-gray-900 "></div>
+                </div>
+                <div class="text-xs font-light uppercase">Web Programming</div>
+
+                <div class="flex flex-row px-2 py-1 mt-10 text-sm tracking-wider uppercase border-2 border-black gap-x-1 w-fit">
+                    <div class="font-bold">Education</div>
+                    <div class="font-light">&</div>
+                    <div class="font-light">Jobs</div>
+                </div>
+
+                <div class="mt-4 text-xs font-light">
+                    November 2017 - Present
+                </div>
+                <div class="text-base font-bold tracking-[.15em]">
+                    SOFTWARE <span class="font-light">ENGINEER</span>
+                </div>
+                <div class="text-xs italic font-light">Ibnu Hajar Boarding School Jakarta</div>
+
+                <div class="mt-4 text-xs font-light">
+                    April 2022 - Present
+                </div>
+                <div class="text-base font-bold tracking-[.15em]">
+                    SOFTWARE <span class="font-light">ENGINEER</span>
+                </div>
+                <div class="text-xs italic font-light">Ibnu Hajar Boarding School Jakarta</div>
+                
             </div>
             <div class="bg-yellow-500">Child component 4</div>
         </div>

@@ -73,7 +73,18 @@
                 </div>
             </div>
 
-            <div class="bg-green-500">Child component 3</div>
+            <div class="flex flex-col px-5 pt-10 bg-white">
+                <div class="flex flex-row px-2 py-1 text-sm tracking-wider uppercase border-2 border-black gap-x-1 w-fit">
+                    <div class="font-bold">Skills</div>
+                    <div class="font-light">&</div>
+                    <div class="font-light">Abilities</div>
+                </div>
+                
+                <div class="flex justify-end w-full mt-4 text-xs font-light">
+                    85%
+                </div>
+                <div class="w-full h-[20px] bg-gray-300 mt-1"></div>
+            </div>
             <div class="bg-yellow-500">Child component 4</div>
         </div>
     </body>

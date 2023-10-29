@@ -1,6 +1,8 @@
 <html>
     <head>
         @vite('resources/css/app.css')
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+        
     </head>
     <body >
         <div class="grid w-full h-screen grid-cols-4 bg-gray-500">
@@ -34,8 +36,40 @@
                     <div class="font-bold">Services</div>
                 </div>
 
-                <div class="flex flex-row gap-x-4">
+                <div class="flex flex-row w-full mt-6 gap-x-4">
+                        <div class="w-[60px] h-[60px] min-w-[60px] min-h-[60px] bg-gray-100 flex justify-center items-center rounded-full">
+                            <span class="material-symbols-outlined">
+                                brush
+                                </span>
+                        </div>
+                        <div class="flex flex-col w-full">
+                            <div class="text-base font-bold tracking-wider uppercase ">User Interface Design</div>
+                            <div class="text-xs italic font-light">Deliver UI (User Interface) using Figma for your website and/or application</div>
+                        </div>
+                </div>
 
+                <div class="flex flex-row w-full mt-6 gap-x-4">
+                        <div class="w-[60px] h-[60px] min-w-[60px] min-h-[60px] bg-gray-100 flex justify-center items-center rounded-full">
+                            <span class="material-symbols-outlined">
+                                smartphone
+                                </span>
+                        </div>
+                        <div class="flex flex-col w-full">
+                            <div class="text-base font-bold tracking-wider uppercase ">Mobile Application</div>
+                            <div class="text-xs italic font-light">Deliver awesome mobile application for your needs</div>
+                        </div>
+                </div>
+                
+                <div class="flex flex-row w-full mt-6 gap-x-4">
+                        <div class="w-[60px] h-[60px] min-w-[60px] min-h-[60px] bg-gray-100 flex justify-center items-center rounded-full">
+                            <span class="material-symbols-outlined">
+                                computer
+                                </span>
+                        </div>
+                        <div class="flex flex-col w-full">
+                            <div class="text-base font-bold tracking-wider uppercase ">Web Aplication</div>
+                            <div class="text-xs italic font-light">Deliver awesome website application for your needs</div>
+                        </div>
                 </div>
             </div>
 

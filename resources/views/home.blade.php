@@ -22,7 +22,20 @@
                 </div>
 
                 <div class="mt-3 text-xl font-light tracking-wider text-black">
-                    I'm Robby Ilhamkusuma - 35 years old professional Fullstack Developer in Jakarta
+                    I'm <span class="font-bold">Robby Ilhamkusuma</span>  - 35 years old professional Fullstack Developer in Jakarta
+                </div>
+
+                <div class="mt-3 text-xs font-light text-black">
+                    Through 3+ years of my experience. I have been working for over <span class="font-bold">10+ projects</span> with different for programming languages and frameworks such a PHP, Java, Javascript, Dart, Codeigniter, Laravel, Spring, Flutter, HTML-CSS, NodeJs, NuxtJs, VueJs, ReactJs. Don't hesitate to contact me, if you want to collaborate with me. Growth Learning..   
+                </div>
+
+                <div class="flex flex-row px-2 py-1 mt-10 text-sm tracking-wider uppercase border-2 border-black gap-x-1 w-fit">
+                    <div class="font-light">My</div>
+                    <div class="font-bold">Services</div>
+                </div>
+
+                <div class="flex flex-row gap-x-4">
+
                 </div>
             </div>
 

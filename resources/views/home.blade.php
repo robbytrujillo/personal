@@ -160,7 +160,65 @@
                 <div class="text-xs italic font-light">PT Bank BTPN</div>
             </div>
             
-            {{-- <div class="bg-yellow-500">Child component 4</div> --}}
+            <div class="flex flex-col px-5 pt-10 bg-white">
+                <div class="flex flex-row px-2 py-1 text-sm tracking-wider uppercase border-2 border-black gap-x-1 w-fit">
+                    <div class="font-bold">Certificates</div>
+                </div>
+                <div class="mt-4 text-xs font-light">
+                    Jul 2023 - Jun 2026
+                </div>
+                <div class="text-base font-bold tracking-[.15em]">
+                    
+                    CLOUD PRACTITIONER ESSENTIALS <span class="font-light"></span>
+                </div>
+                <div class="text-xs italic font-light">Dicoding Indonesia</div>
+                
+                <div class="mt-4 text-xs font-light">
+                    Okt 2022
+                </div>
+                <div class="text-base font-bold tracking-[.15em]">
+                    
+                    SERTIFIKAT <span class="font-bold">NODEJS</span>
+                </div>
+                <div class="text-xs italic font-light">Progate</div>
+                
+                <div class="mt-4 text-xs font-light">
+                    Apr - Jun 2022
+                </div>
+                <div class="text-base font-bold tracking-[.15em]">
+                    
+                    BOOTCAMP <span class="font-bold">FLUTTER</span>
+                </div>
+                <div class="text-xs italic font-light">Edspert</div>
+                
+                <div class="flex flex-row px-2 py-1 mt-10 text-sm tracking-wider uppercase border-2 border-black gap-x-1 w-fit">
+                    <div class="font-bold">Language Skills</div>
+                </div>
+                <div class="flex justify-end w-full mt-3 text-xs font-light">
+                    NATIVE SPEAKER
+                </div>
+                <div class="w-full h-[2px] bg-gray-300 mt-1">
+                    <div class="w-full h-[2px] bg-gray-900 "></div>
+                </div>
+                <div class="text-xs font-light uppercase">Bahasa Indonesia</div>
+                
+                <div class="flex justify-end w-full mt-3 text-xs font-light">
+                    INTERMEDIATE LEVEL
+                </div>
+                <div class="w-full h-[2px] bg-gray-300 mt-1">
+                    <div class="w-8/12 h-[2px] bg-gray-900 "></div>
+                </div>
+                <div class="text-xs font-light uppercase">English</div>
+                
+                <div class="flex flex-row px-2 py-1 mt-10 text-sm tracking-wider uppercase border-2 border-black gap-x-1 w-fit">
+                    <div class="font-bold">HOBBIES</div>
+                    <div class="font-light">&</div>
+                    <div class="font-light">& INTERESTS</div>
+                </div>
+                <div class="flex flex-col items-center gap-y-2">
+                    <div class="w-[60px] h-[60px] min-w-[60px] min-h-[60px] bg-gray-100"></div>
+                </div>
+            </div>
         </div>
     </body>
 </html>

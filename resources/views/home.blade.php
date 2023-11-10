@@ -213,11 +213,16 @@
                 <div class="flex flex-row px-2 py-1 mt-10 text-sm tracking-wider uppercase border-2 border-black gap-x-1 w-fit">
                     <div class="font-bold">HOBBIES</div>
                     <div class="font-light">&</div>
-                    <div class="font-light">& INTERESTS</div>
+                    <div class="font-light">INTERESTS</div>
                 </div>
-                <div class="flex flex-col items-center gap-y-2">
-                    <div class="w-[60px] h-[60px] min-w-[60px] min-h-[60px] bg-gray-100"></div>
+                
+                <div class="flex flex-row gap-x-2 uppercase mt-4">
+                <div class="flex flex-col items-center">
+                    <div class="w-[60px] h-[60px] min-w-[60px] min-h-[60px] bg-gray-100 flex justify-center items-center rounded-full">icon</div>
+
+                    <div class="font-light uppercase tracking-wider text-xs">Programming</div>
                 </div>
+            </div>
             </div>
         </div>
     </body>

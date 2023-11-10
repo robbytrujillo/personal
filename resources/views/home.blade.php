@@ -217,22 +217,28 @@
                 </div>
                 
                 <div class="flex flex-row gap-x-2 uppercase mt-4">
-                <div class="flex flex-col items-center">
+                <div class="flex flex-col gap-y-2 items-center">
                     <div class="w-[60px] h-[60px] min-w-[60px] min-h-[60px] bg-gray-100 flex justify-center items-center rounded-full">icon</div>
 
-                    <div class="font-light uppercase tracking-wider text-xs">Programming</div>
+                    <div class="font-light uppercase tracking-wider text-xs">Coding</div>
                 </div>
                 
-                <div class="flex flex-col items-center">
+                <div class="flex flex-col gap-y-2 items-center">
                     <div class="w-[60px] h-[60px] min-w-[60px] min-h-[60px] bg-gray-100 flex justify-center items-center rounded-full">icon</div>
 
-                    <div class="font-light uppercase tracking-wider text-xs">Programming</div>
+                    <div class="font-light uppercase tracking-wider text-xs">Reading</div>
                 </div>
                 
-                <div class="flex flex-col items-center">
+                <div class="flex flex-col gap-y-2 items-center">
                     <div class="w-[60px] h-[60px] min-w-[60px] min-h-[60px] bg-gray-100 flex justify-center items-center rounded-full">icon</div>
 
-                    <div class="font-light uppercase tracking-wider text-xs">Programming</div>
+                    <div class="font-light uppercase tracking-wider text-xs">Hiking</div>
+                </div>
+                
+                <div class="flex flex-col gap-y-2 items-center">
+                    <div class="w-[60px] h-[60px] min-w-[60px] min-h-[60px] bg-gray-100 flex justify-center items-center rounded-full">icon</div>
+
+                    <div class="font-light uppercase tracking-wider text-xs">Futsal</div>
                 </div>
             </div>
             </div>

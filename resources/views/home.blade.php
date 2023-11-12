@@ -31,133 +31,133 @@
                     Through 3+ years of my experience. I have been working for over <span class="font-bold">10+ projects</span> with different for programming languages and frameworks such a PHP, Java, Javascript, Dart, Codeigniter, Laravel, Spring, Flutter, HTML-CSS, NodeJs, NuxtJs, VueJs, ReactJs. Don't hesitate to contact me, if you want to collaborate with me. Growth Learning..   
                 </div>
 
-                <div class="flex flex-row px-2 py-1 mt-10 text-sm tracking-wider uppercase border-2 border-black gap-x-1 w-fit">
+                <div class="flex flex-row px-2 py-1 mt-20 lg:mt-10 text-3xl lg:text-sm tracking-wider uppercase border-2 border-black gap-x-1 w-fit">
                     <div class="font-light">My</div>
                     <div class="font-bold">Services</div>
                 </div>
 
                 <div class="flex flex-row w-full mt-6 gap-x-4">
-                        <div class="w-[60px] h-[60px] min-w-[60px] min-h-[60px] bg-gray-100 flex justify-center items-center rounded-full">
+                        <div class="w-[90px] lg:w-[60px] h-[90px] lg:h-[60px] min-w-[90px] lg:min-w-[60px] min-h-[90px] lg:min-h-[60px] bg-gray-100 flex justify-center items-center rounded-full">
                             <span class="material-symbols-outlined">
                                 brush
                                 </span>
                         </div>
                         <div class="flex flex-col w-full">
-                            <div class="text-base font-bold tracking-wider uppercase ">User Interface Design</div>
-                            <div class="text-xs italic font-light">Deliver UI (User Interface) using Figma for your website and/or application</div>
+                            <div class="text-3xl lg:text-base font-bold tracking-wider uppercase ">User Interface Design</div>
+                            <div class="text-2xl lg:text-xs italic font-light">Deliver UI (User Interface) using Figma for your website and/or application</div>
                         </div>
                 </div>
 
                 <div class="flex flex-row w-full mt-6 gap-x-4">
-                        <div class="w-[60px] h-[60px] min-w-[60px] min-h-[60px] bg-gray-100 flex justify-center items-center rounded-full">
+                    <div class="w-[90px] lg:w-[60px] h-[90px] lg:h-[60px] min-w-[90px] lg:min-w-[60px] min-h-[90px] lg:min-h-[60px] bg-gray-100 flex justify-center items-center rounded-full">
                             <span class="material-symbols-outlined">
                                 smartphone
                                 </span>
                         </div>
                         <div class="flex flex-col w-full">
-                            <div class="text-base font-bold tracking-wider uppercase ">Mobile Application</div>
-                            <div class="text-xs italic font-light">Deliver awesome mobile application for your needs</div>
+                            <div class="text-3xl lg:text-base font-bold tracking-wider uppercase ">Mobile Application</div>
+                            <div class="text-2xl lg:text-xs italic font-light">Deliver awesome mobile application for your needs</div>
                         </div>
                 </div>
                 
                 <div class="flex flex-row w-full mt-6 gap-x-4">
-                        <div class="w-[60px] h-[60px] min-w-[60px] min-h-[60px] bg-gray-100 flex justify-center items-center rounded-full">
+                    <div class="w-[90px] lg:w-[60px] h-[90px] lg:h-[60px] min-w-[90px] lg:min-w-[60px] min-h-[90px] lg:min-h-[60px] bg-gray-100 flex justify-center items-center rounded-full">
                             <span class="material-symbols-outlined">
                                 computer
                                 </span>
                         </div>
                         <div class="flex flex-col w-full">
-                            <div class="text-base font-bold tracking-wider uppercase ">Web Aplication</div>
-                            <div class="text-xs italic font-light">Deliver awesome website application for your needs</div>
+                            <div class="text-3xl lg:text-base font-bold tracking-wider uppercase ">Web Aplication</div>
+                            <div class="text-2xl lg:text-xs italic font-light">Deliver awesome website application for your needs</div>
                         </div>
                 </div>
             </div>
 
-            <div class="flex flex-col px-5 pt-10 bg-white">
-                <div class="flex flex-row px-2 py-1 text-sm tracking-wider uppercase border-2 border-black gap-x-1 w-fit">
+            <div class="flex flex-col px-10 lg:px-5 pt-20 lg:pt-10 bg-white">
+                <div class="flex flex-row px-2 py-1 text-3xl lg:text-sm tracking-wider uppercase border-2 border-black gap-x-1 w-fit">
                     <div class="font-bold">Skills</div>
                     <div class="font-light">&</div>
                     <div class="font-light">Abilities</div>
                 </div>
                 
-                <div class="flex justify-end w-full mt-3 text-xs font-light">
+                <div class="flex justify-end w-full mt-3 text-2xl lg:text-xs font-light">
                     85%
                 </div>
-                <div class="w-full h-[2px] bg-gray-300 mt-1">
-                    <div class="w-10/12 h-[2px] bg-gray-900 "></div>
+                <div class="w-full h-[10px] lg:h-[2px] bg-gray-300 mt-1">
+                    <div class="w-10/12 h-[10px] lg:h-[2px] bg-gray-900 "></div>
                 </div>
-                <div class="text-xs font-light uppercase">UI Design</div>
+                <div class="text-2xl lg:text-xs font-light uppercase">UI Design</div>
 
-                <div class="flex justify-end w-full mt-3 text-xs font-light">
+                <div class="flex justify-end w-full mt-3 text-2xl lg:text-xs font-light">
                     90%
                 </div>
-                <div class="w-full h-[2px] bg-gray-300 mt-1">
-                    <div class="w-11/12 h-[2px] bg-gray-900 "></div>
+                <div class="w-full h-[10px] lg:h-[2px] bg-gray-300 mt-1">
+                    <div class="w-11/12 h-[10px] lg:h-[2px] bg-gray-900 "></div>
                 </div>
-                <div class="text-xs font-light uppercase">Mobile Programming</div>
+                <div class="text-2xl lg:text-xs font-light uppercase">Mobile Programming</div>
                 
-                <div class="flex justify-end w-full mt-3 text-xs font-light">
+                <div class="flex justify-end w-full mt-3 text-2xl lg:text-xs font-light">
                     85%
                 </div>
-                <div class="w-full h-[2px] bg-gray-300 mt-1">
-                    <div class="w-10/12 h-[2px] bg-gray-900 "></div>
+                <div class="w-full h-[10px] lg:h-[2px] bg-gray-300 mt-1">
+                    <div class="w-10/12 h-[10px] lg:h-[2px] bg-gray-900 "></div>
                 </div>
-                <div class="text-xs font-light uppercase">Web Programming</div>
+                <div class="text-2xl lg:text-xs font-light uppercase">Web Programming</div>
 
-                <div class="flex flex-row px-2 py-1 mt-5 text-sm tracking-wider uppercase border-2 border-black gap-x-1 w-fit">
+                <div class="flex flex-row px-2 py-1 mt-20 lg:mt-5 text-3xl lg:text-sm tracking-wider uppercase border-2 border-black gap-x-1 w-fit">
                     <div class="font-bold">Education</div>
                     <div class="font-light">&</div>
                     <div class="font-light">Jobs</div>
                 </div>
 
-                <div class="mt-4 text-xs font-light">
+                <div class="mt-4 text-2xl lg:text-xs font-light">
                     Jun 2020 - Present
                 </div>
-                <div class="text-base font-bold tracking-[.15em]">
+                <div class="text-4xl lg:text-base font-bold tracking-[.15em]">
                     FREELANCE <span class="font-light">WEB DEVELOPER</span>
                 </div>
-                <div class="text-xs italic font-light">Laksana Web Solution</div>
+                <div class="text-2xl lg:text-xs italic font-light">Laksana Web Solution</div>
                 
-                <div class="mt-4 text-xs font-light">
+                <div class="mt-4 text-2xl lg:text-xs font-light">
                     November 2017 - Present
                 </div>
-                <div class="text-base font-bold tracking-[.15em]">
+                <div class="text-4xl lg:text-base font-bold tracking-[.15em]">
                     IT, TEACHER, & <span class="font-light"> PROGRAMMER</span>
                 </div>
-                <div class="text-xs italic font-light">Ibnu Hajar Boarding School Jakarta</div>
+                <div class="text-2xl lg:text-xs italic font-light">Ibnu Hajar Boarding School Jakarta</div>
 
-                <div class="mt-4 text-xs font-light">
+                <div class="mt-4 text-2xl lg:text-xs font-light">
                     Des 2014 - Des 2016
                 </div>
-                <div class="text-base font-bold tracking-[.15em]">
+                <div class="text-4xl lg:text-base font-bold tracking-[.15em]">
                     AO &<span class="font-light"> CREDIT ANALYST</span>
                 </div>
-                <div class="text-xs italic font-light">PT Bank Sinarmas</div>
+                <div class="text-2xl lg:text-xs italic font-light">PT Bank Sinarmas</div>
 
-                <div class="mt-4 text-xs font-light">
+                <div class="mt-4 text-2xl lg:text-xs font-light">
                     Des 2012 - Des 2014
                 </div>
-                <div class="text-base font-bold tracking-[.15em]">
+                <div class="text-4xl lg:text-base font-bold tracking-[.15em]">
                     ACCOUNT <span class="font-light">OFFICER</span>
                 </div>
-                <div class="text-xs italic font-light">PT Bank Victoria Syariah</div>
+                <div class="text-2xl lg:text-xs italic font-light">PT Bank Victoria Syariah</div>
 
-                <div class="mt-4 text-xs font-light">
+                <div class="mt-4 text-2xl lg:text-xs font-light">
                     Juli 2012 - Des 2012
                 </div>
-                <div class="text-base font-bold tracking-[.15em]">
+                <div class="text-4xl lg:text-base font-bold tracking-[.15em]">
                     MERCHAN<span class="font-light">DISER</span>
                 </div>
-                <div class="text-xs italic font-light">Danone Nutricia Research</div>
+                <div class="text-2xl lg:text-xs italic font-light">Danone Nutricia Research</div>
 
-                <div class="mt-4 text-xs font-light">
+                <div class="mt-4 text-2xl lg:text-xs font-light">
                     Jan 2012 - Jun 2012
                 </div>
-                <div class="text-base font-bold tracking-[.15em]">
+                <div class="text-4xl lg:text-base font-bold tracking-[.15em]">
                     
                 RELATIONSHIP <span class="font-light">OFFICER</span>
                 </div>
-                <div class="text-xs italic font-light">PT Bank BTPN</div>
+                <div class="text-2xl lg:text-xs italic font-light">PT Bank BTPN</div>
             </div>
             
             <div class="flex flex-col px-5 pt-10 bg-white">

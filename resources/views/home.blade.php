@@ -217,9 +217,9 @@
                     <div class="font-light">INTERESTS</div>
                 </div>
                 
-                <div class="flex flex-row gap-x-2 uppercase mt-4">
+                <div class="flex flex-row gap-x-2 uppercase mt-4 mb-10 lg:mb-0">
                 <div class="flex flex-col gap-y-2 items-center">
-                    <div class="w-[60px] h-[60px] min-w-[60px] min-h-[60px] bg-gray-100 flex justify-center items-center rounded-full"><span class="material-symbols-outlined">
+                    <div class="w-[120px] lg:w-[60px] h-[120px] lg:h-[60px] min-w-[120px] lg:min-w-[60px] min-h-[120px] lg:min-h-[60px] bg-gray-100 flex justify-center items-center rounded-full"><span class="material-symbols-outlined">
                         code
                         </span></div>
 
@@ -227,7 +227,7 @@
                 </div>
                 
                 <div class="flex flex-col gap-y-2 items-center">
-                    <div class="w-[60px] h-[60px] min-w-[60px] min-h-[60px] bg-gray-100 flex justify-center items-center rounded-full"><span class="material-symbols-outlined">
+                    <div class="w-[120px] lg:w-[60px] h-[120px] lg:h-[60px] min-w-[120px] lg:min-w-[60px] min-h-[120px] lg:min-h-[60px] bg-gray-100 flex justify-center items-center rounded-full"><span class="material-symbols-outlined">
                         menu_book
                         </span></div>
 
@@ -235,7 +235,7 @@
                 </div>
                 
                 <div class="flex flex-col gap-y-2 items-center">
-                    <div class="w-[60px] h-[60px] min-w-[60px] min-h-[60px] bg-gray-100 flex justify-center items-center rounded-full"><span class="material-symbols-outlined">
+                    <div class="w-[120px] lg:w-[60px] h-[120px] lg:h-[60px] min-w-[120px] lg:min-w-[60px] min-h-[120px] lg:min-h-[60px] bg-gray-100 flex justify-center items-center rounded-full"><span class="material-symbols-outlined">
                         hiking
                         </span></div>
 
@@ -243,7 +243,7 @@
                 </div>
                 
                 <div class="flex flex-col gap-y-2 items-center">
-                    <div class="w-[60px] h-[60px] min-w-[60px] min-h-[60px] bg-gray-100 flex justify-center items-center rounded-full"><span class="material-symbols-outlined">
+                    <div class="w-[120px] lg:w-[60px] h-[120px] lg:h-[60px] min-w-[120px] lg:min-w-[60px] min-h-[120px] lg:min-h-[60px] bg-gray-100 flex justify-center items-center rounded-full"><span class="material-symbols-outlined">
                         sports_soccer
                         </span></div>
 

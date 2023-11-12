@@ -191,26 +191,27 @@
                 </div>
                 <div class="text-2xl lg:text-xs italic font-light">Edspert</div>
                 
-                <div class="flex flex-row px-2 py-1 mt-10 text-sm tracking-wider uppercase border-2 border-black gap-x-1 w-fit">
-                    <div class="font-bold">Language Skills</div>
+                <div class="flex flex-row px-2 py-1 mt-20 lg:mt-10 text-3xl lg:text-sm tracking-wider uppercase border-2 border-black gap-x-1 w-fit">
+                    <div class="font-bold">Language</div>
+                    <div class="font-light">Skills</div>
                 </div>
-                <div class="flex justify-end w-full mt-3 text-xs font-light">
+                <div class="flex justify-end w-full mt-3 text-2xl lg:text-xs font-light">
                     NATIVE SPEAKER
                 </div>
-                <div class="w-full h-[2px] bg-gray-300 mt-1">
-                    <div class="w-full h-[2px] bg-gray-900 "></div>
+                <div class="w-full h-[10px] lg:h-[2px] bg-gray-300 mt-1">
+                    <div class="w-full h-[10px] lg:h-[2px] bg-gray-900 "></div>
                 </div>
-                <div class="text-xs font-light uppercase">Bahasa Indonesia</div>
+                <div class="text-2xl lg:text-xs font-light uppercase">Bahasa Indonesia</div>
                 
-                <div class="flex justify-end w-full mt-3 text-xs font-light">
+                <div class="flex justify-end w-full mt-3 text-2xl lg:text-xs font-light">
                     INTERMEDIATE LEVEL
                 </div>
-                <div class="w-full h-[2px] bg-gray-300 mt-1">
-                    <div class="w-8/12 h-[2px] bg-gray-900 "></div>
+                <div class="w-full h-[10px] lg:h-[2px] bg-gray-300 mt-1">
+                    <div class="w-8/12 h-[10px] lg:h-[2px] bg-gray-900 "></div>
                 </div>
-                <div class="text-xs font-light uppercase">English</div>
+                <div class="text-2xl lg:text-xs font-light uppercase">English</div>
                 
-                <div class="flex flex-row px-2 py-1 mt-10 text-sm tracking-wider uppercase border-2 border-black gap-x-1 w-fit">
+                <div class="flex flex-row px-2 py-1 mt-20 lg:mt-10 text-3xl lg:text-sm tracking-wider uppercase border-2 border-black gap-x-1 w-fit">
                     <div class="font-bold">HOBBIES</div>
                     <div class="font-light">&</div>
                     <div class="font-light">INTERESTS</div>

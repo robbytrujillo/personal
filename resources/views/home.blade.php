@@ -223,7 +223,7 @@
                         code
                         </span></div>
 
-                    <div class="font-light uppercase tracking-wider text-xs">Coding</div>
+                    <div class="font-light uppercase tracking-wider text-2xl lg:text-xs">Coding</div>
                 </div>
                 
                 <div class="flex flex-col gap-y-2 items-center">
@@ -231,7 +231,7 @@
                         menu_book
                         </span></div>
 
-                    <div class="font-light uppercase tracking-wider text-xs">Reading</div>
+                    <div class="font-light uppercase tracking-wider text-2xl lg:text-xs">Reading</div>
                 </div>
                 
                 <div class="flex flex-col gap-y-2 items-center">
@@ -239,7 +239,7 @@
                         hiking
                         </span></div>
 
-                    <div class="font-light uppercase tracking-wider text-xs">Hiking</div>
+                    <div class="font-light uppercase tracking-wider text-2xl lg:text-xs">Hiking</div>
                 </div>
                 
                 <div class="flex flex-col gap-y-2 items-center">
@@ -247,7 +247,7 @@
                         sports_soccer
                         </span></div>
 
-                    <div class="font-light uppercase tracking-wider text-xs">Futsal</div>
+                    <div class="font-light uppercase tracking-wider text-2xl lg:text-xs">Futsal</div>
                 </div>
             </div>
             </div>

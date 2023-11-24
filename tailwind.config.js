@@ -172,6 +172,9 @@ module.exports = {
             fuchsia: colors.fuchsia,
             pink: colors.pink,
             rose: colors.rose,
+            develobe: {
+                500: "#38B6FF",
+            },
         }),
         columns: {
             auto: "auto",
